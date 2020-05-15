@@ -1,6 +1,7 @@
 body
 {
 	width: 100%;
+	background-image: url(../TAINGUYEN/anh3.jpg);
 	/*font-size: none;*/
 }
 .Container{
@@ -9,7 +10,7 @@ body
 .web{
 	
 	padding: 200px;
-	background-image: url(../TAINGUYEN/anh3.jpg);
+	
 	
 }
 .header
