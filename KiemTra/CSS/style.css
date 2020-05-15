@@ -64,10 +64,11 @@ body
 }
 .main_right
 {
-
+	background: white;
 	width: 80%;
 	float: right;
 	padding-left: : 10px;
+	background: white;
 	/*padding-bottom: 0px;*/
 }
 .table{
