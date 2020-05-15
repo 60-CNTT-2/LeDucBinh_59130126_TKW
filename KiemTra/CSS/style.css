@@ -1,0 +1,116 @@
+body
+{
+	width: 100%;
+	/*font-size: none;*/
+}
+.Container{
+	height: 1000px;
+}
+.web{
+	
+	padding: 200px;
+	background-image: url(../TAINGUYEN/anh3.jpg);
+	
+}
+.header
+{
+	background-image: url(../TAINGUYEN/anh1.jpg);
+	object-fit: cover;
+	height: 200px;
+	width: 100%;
+	float: left;
+	/*margin: 0 auto;*/
+	color: yellow;
+	text-align: center;
+	font-size: xx-large;
+}
+
+.main_left_top{
+	width: 19%;
+	float: left;
+	background-color: gray;	
+}
+.main_left_top ul
+{
+	list-style: none;
+	margin: 0 auto;
+	padding-inline-start: inherit;
+}
+.main_left_top ul li
+{
+	list-style: none;
+	padding: 10px 20px;
+	background: linear-gradient(to top,black, lightgray);
+	/*float: left;*/
+}
+.main_left_top ul li a
+{
+	color: white;
+	text-decoration: none;
+	display: block;
+	/*padding: 0ppx;*/
+}
+.main_left_top ul li:hover
+{
+	background: linear-gradient(to top,blue, aqua);
+}
+.main_left_bottom
+{
+	width: 19%;
+	float: left;
+	background-color: gray;
+	color: white;
+}
+.main_right
+{
+
+	width: 80%;
+	float: right;
+	padding-left: : 10px;
+	/*padding-bottom: 0px;*/
+}
+.table{
+	border: none;
+}
+.head_tb
+{
+	background-color: gray;
+	font-size: 22px;
+}
+.head_tb1{
+	text-align: center;
+}
+.main_left_bottom ul{
+	list-style: none;
+	padding-inline-start: inherit;
+}
+.b
+{
+	font-weight: bold;
+}
+
+.footer
+{
+	width: 100%;
+	float: left;
+	background-color: #081705;
+	text-align: center;
+	color: white;
+	padding:5px;
+}
+
+.link{
+	text-decoration: none;
+	color: yellow;
+	font-size:15px; 
+	margin: 18px;
+}
+.form1{
+	width: 73px;
+	display: inline-block;
+}
+#nut {
+    border-color: violet;
+    border-radius: 18px;
+    color: red;
+}
